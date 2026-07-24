@@ -1,0 +1,242 @@
+[
+  {
+    "label": "beginner",
+    "text": "I am just starting to learn programming. I completed a Python basics tutorial on Coursera. I have written a few small scripts that print hello world and do simple math. I am still learning about variables, loops, and functions. I have not worked on any real projects yet."
+  },
+  {
+    "label": "beginner",
+    "text": "I recently started learning HTML and CSS. I built my first webpage following a YouTube tutorial. I know how to add headers, paragraphs and images. I am now learning how to style elements with CSS. I have no experience with JavaScript yet."
+  },
+  {
+    "label": "beginner",
+    "text": "I am a complete beginner in data science. I watched Andrew Ng's machine learning course introduction. I know what supervised learning means but have not coded any model yet. I am comfortable with basic Python and Excel. Still learning pandas basics."
+  },
+  {
+    "label": "beginner",
+    "text": "Just started my first coding bootcamp last month. We are covering HTML CSS and a bit of Python. I built a to-do list app following a step-by-step tutorial. My GitHub only has forked repositories from tutorials. Looking for guidance on my first original project."
+  },
+  {
+    "label": "beginner",
+    "text": "I have been learning Java for three months in my intro to computer science class. I understand object oriented programming basics like classes and objects. I have submitted several homework assignments involving arrays and simple algorithms. Still struggling with recursion."
+  },
+  {
+    "label": "beginner",
+    "text": "I have done a few free online courses on Python. I can write basic scripts, understand if-else and for loops, and use simple functions. I have not worked with any libraries except basic math operations. My first project is a number guessing game I built from scratch."
+  },
+  {
+    "label": "beginner",
+    "text": "Learning web development from scratch. I have finished the HTML and CSS sections of FreeCodeCamp. I can create simple static pages but do not know JavaScript yet. I have never deployed anything to the internet. Looking for a mentor to guide me through next steps."
+  },
+  {
+    "label": "beginner",
+    "text": "I am a recent graduate with a non-technical background. I have taken an intro to programming course using Python and completed exercises on basic data types, conditionals, loops, and file I/O. I want to transition into software engineering and need a structured learning path."
+  },
+  {
+    "label": "beginner",
+    "text": "Started learning SQL two weeks ago. I can write basic SELECT queries with WHERE clauses. I do not yet understand JOINs or subqueries. I am using a beginner SQLite tutorial. No experience with databases in a real application context."
+  },
+  {
+    "label": "beginner",
+    "text": "I have a little experience with Scratch from school and recently started learning Python on my own. I can write simple programs using print statements and basic variables. I do not understand libraries or modules yet. Very new to coding."
+  },
+  {
+    "label": "beginner",
+    "text": "Just started learning React following a YouTube playlist. I understand JSX syntax and basic components but am confused by state and props. I have only worked through tutorial projects. No real-world experience. Looking for project-based guidance."
+  },
+  {
+    "label": "beginner",
+    "text": "I finished a Udemy course on Python basics including functions, lists, dictionaries, and file handling. I am now attempting to build a simple quiz app on my own but get stuck frequently. I have not yet learned about APIs or databases."
+  },
+  {
+    "label": "beginner",
+    "text": "I am learning data analysis with Excel and am just starting to move into Python with pandas. I know how to load a CSV and print the first few rows. I have not done any visualization yet. Background is in business and finance, no formal CS education."
+  },
+  {
+    "label": "beginner",
+    "text": "I took a short Swift course on Udemy and built a simple calculator app following the instructor step by step. I understand the basics of Xcode and Swift syntax but am unsure how to build my own app from scratch. Never published to App Store."
+  },
+  {
+    "label": "beginner",
+    "text": "I am studying computer science in my first year at university. We use Java for assignments. I understand basic data structures like arrays and linked lists conceptually. I have not done competitive programming or built any personal projects outside of coursework."
+  },
+  {
+    "label": "beginner",
+    "text": "I recently discovered programming and am very excited. I have completed the free Python track on Codecademy. I can manipulate strings and lists and understand basic object oriented concepts. I want to build real projects but do not know where to start."
+  },
+  {
+    "label": "beginner",
+    "text": "My first programming language is JavaScript. I learned it through the MDN tutorials and a freeCodeCamp challenge. I can write basic functions, manipulate the DOM, and handle simple events. I have not used any frameworks or built anything beyond simple exercises."
+  },
+  {
+    "label": "beginner",
+    "text": "I am learning machine learning by following tutorials on YouTube. I ran my first linear regression model in a Jupyter notebook using scikit-learn following a guide step by step. I do not yet understand how the math works behind the model."
+  },
+  {
+    "label": "beginner",
+    "text": "Background in graphic design, started learning to code six months ago with HTML and CSS. I can create responsive layouts using flexbox. Now starting to learn JavaScript basics. I want to eventually build interactive websites but am still in the learning phase."
+  },
+  {
+    "label": "beginner",
+    "text": "Just completed a zero-to-hero Python course. I now understand variables, loops, functions, file I/O, and basic exception handling. My portfolio has one project: a command line address book. I have never used version control or worked in a team."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have three years of experience building web applications with React and Node.js. I am comfortable with REST API design, relational databases with PostgreSQL, and deploying apps to Heroku. I have worked on two production projects with real users. Recently started learning TypeScript."
+  },
+  {
+    "label": "intermediate",
+    "text": "I work as a junior data scientist and have been in the role for one and a half years. I build machine learning pipelines using scikit-learn and pandas. I have deployed two models to production using Flask APIs. I understand cross-validation, feature engineering, and basic model evaluation."
+  },
+  {
+    "label": "intermediate",
+    "text": "Two years of professional Android development experience using Kotlin and Jetpack Compose. I have shipped two apps to the Google Play Store. I understand the MVVM architecture pattern, Coroutines for async operations, and Retrofit for API integration. Working on learning dependency injection with Hilt."
+  },
+  {
+    "label": "intermediate",
+    "text": "Four years writing Python scripts for automation and data processing. I have worked with pandas, NumPy, matplotlib, and BeautifulSoup for web scraping. I understand how to structure code into modules and use virtual environments. Recently started exploring FastAPI for building APIs."
+  },
+  {
+    "label": "intermediate",
+    "text": "I am a backend developer with two years of experience in Django. I have built and maintained several REST APIs serving hundreds of users. I understand Django ORM, authentication, caching with Redis, and writing unit tests with pytest. Comfortable with Git workflows including branching strategies."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have been working in DevOps for two years. I manage CI/CD pipelines using Jenkins and GitHub Actions, deploy containerized applications with Docker, and have basic Kubernetes experience. I write Bash and Python scripts for automation. Recently studying Terraform for infrastructure as code."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have been building iOS apps with Swift for two years. I understand UIKit well and have started learning SwiftUI. I use MVC and MVVM patterns, integrate third-party SDKs via CocoaPods, and have shipped one app with ten thousand downloads. Currently learning Core Data."
+  },
+  {
+    "label": "intermediate",
+    "text": "Three years as a frontend developer specializing in React. I have built several dashboards and e-commerce frontends. I use Redux for state management, write unit tests with Jest, and optimize performance with React.memo and lazy loading. Comfortable with responsive design and CSS-in-JS."
+  },
+  {
+    "label": "intermediate",
+    "text": "I am a data engineer with two years of experience. I build ETL pipelines with Apache Airflow and process data using Spark on AWS EMR. I am comfortable with SQL, Python, and working with S3 and Redshift. I have some experience with Kafka for streaming data."
+  },
+  {
+    "label": "intermediate",
+    "text": "Two years of experience in cybersecurity working in a SOC. I am comfortable with vulnerability scanning, network monitoring with Wireshark, and writing Python scripts for log analysis. I have completed the OSCP study path and practice on HackTheBox. Working towards my CEH certification."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have been a full-stack developer for three years using Vue.js on the frontend and Django REST Framework on the backend. I have deployed applications to AWS using EC2 and S3. I understand authentication with JWT, write integration tests, and use Docker for local development."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have two years of experience in NLP using HuggingFace Transformers. I have fine-tuned BERT for text classification tasks and built a sentiment analysis API. I understand tokenization, attention mechanisms at a conceptual level, and model evaluation metrics like F1 and AUC."
+  },
+  {
+    "label": "intermediate",
+    "text": "Backend developer for three years specializing in Node.js and Express. I design RESTful APIs, work with MongoDB and PostgreSQL, implement JWT authentication, and write unit tests. I have experience with message queues using RabbitMQ and deploying to AWS EC2."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have been writing Solidity smart contracts for one and a half years and have deployed several contracts to Ethereum testnets. I understand ERC-20 and ERC-721 token standards, use Hardhat for testing, and have some experience with React for building dApp frontends."
+  },
+  {
+    "label": "intermediate",
+    "text": "Game developer for two years using Unity and C#. I have shipped two mobile games on the Google Play Store. I understand physics simulation, collision detection, UI systems, and basic game state management. Currently learning multiplayer networking with Netcode for GameObjects."
+  },
+  {
+    "label": "intermediate",
+    "text": "I work as a cloud engineer for two years mostly on AWS. I have automated infrastructure with CloudFormation, set up VPCs, EC2, RDS, and S3 buckets. I am comfortable with Python for scripting Lambda functions and have basic Terraform knowledge. Studying for my AWS Solutions Architect Associate."
+  },
+  {
+    "label": "intermediate",
+    "text": "Three years of experience in data analysis using Python, SQL, and Tableau. I have built dashboards for business stakeholders and automated weekly reporting pipelines. I understand statistical testing and have run A/B tests. Recently started learning machine learning with scikit-learn."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have two years of QA and test automation experience. I write automated tests using Selenium and Pytest for web applications. I understand the test pyramid, CI integration, and have experience with API testing using Postman and Python requests. Working on learning performance testing."
+  },
+  {
+    "label": "intermediate",
+    "text": "Mobile developer for three years working on cross-platform apps with React Native. I have shipped four apps to both the App Store and Google Play Store. I integrate Firebase for authentication and analytics, work with REST APIs, and manage state with Redux Toolkit."
+  },
+  {
+    "label": "intermediate",
+    "text": "I have been working in machine learning for two years, primarily on tabular data problems. I use gradient boosting models like XGBoost and LightGBM, do feature engineering, and understand hyperparameter tuning with Optuna. I have participated in several Kaggle competitions with top-20 percent finishes."
+  },
+  {
+    "label": "advanced",
+    "text": "Principal machine learning engineer with nine years of experience. I have designed and deployed production ML systems serving billions of predictions per day. I have published research on transformer architectures and led teams of ten engineers. Expert in distributed training with PyTorch on GPU clusters, model quantization, and MLOps."
+  },
+  {
+    "label": "advanced",
+    "text": "Senior software architect with twelve years of experience designing large-scale distributed systems. I have led the migration of monolithic applications to microservices for companies with millions of users. Expert in Kafka, Kubernetes, service mesh architectures, and database sharding strategies. Regularly speak at international engineering conferences."
+  },
+  {
+    "label": "advanced",
+    "text": "Staff engineer at a FAANG company for the past four years. I own the architecture of a platform serving tens of millions of daily active users. I design systems for high availability, lead cross-team technical initiatives, and mentor senior engineers. Deep expertise in distributed consensus algorithms and cache coherence."
+  },
+  {
+    "label": "advanced",
+    "text": "Eight years of experience in data engineering. I have architected data lake platforms on AWS processing over one hundred terabytes daily. I designed real-time streaming pipelines using Kafka and Flink, established data governance frameworks, and led a team of fifteen engineers. Published several internal whitepapers on data mesh architecture."
+  },
+  {
+    "label": "advanced",
+    "text": "Senior security researcher with ten years of experience in offensive and defensive security. I have found and responsibly disclosed critical vulnerabilities in major platforms, led red team engagements for Fortune 500 companies, and developed novel exploit techniques. I mentor junior security researchers and have given talks at DEF CON."
+  },
+  {
+    "label": "advanced",
+    "text": "NLP researcher with PhD and seven years of industry experience. I have led the development of production language models used by millions of users. I have published fifteen papers on language understanding and generation. Expert in pre-training transformers, RLHF, and efficient inference optimization."
+  },
+  {
+    "label": "advanced",
+    "text": "Lead iOS engineer with eight years of experience. I designed the architecture for an app with over five million users, mentored a team of six developers, and introduced Swift concurrency across the entire codebase. I contribute to open-source Swift libraries and have spoken at WWDC labs."
+  },
+  {
+    "label": "advanced",
+    "text": "Senior DevOps architect with eleven years building platform engineering teams from scratch. I have designed multi-region Kubernetes clusters, implemented GitOps with ArgoCD at scale, and established SRE practices including SLO-driven reliability. Led the infrastructure teams for two unicorn startups through rapid growth phases."
+  },
+  {
+    "label": "advanced",
+    "text": "Quantitative researcher and engineer with ten years at hedge funds and investment banks. I have designed algorithmic trading systems handling billions of dollars in daily volume, built low-latency risk management pipelines in C++, and applied advanced statistical models including regime detection and factor decomposition."
+  },
+  {
+    "label": "advanced",
+    "text": "Principal data scientist with nine years of experience leading analytics teams. I have built recommendation systems serving hundreds of millions of users, established ML platform infrastructure, and published research on causal inference and multi-armed bandit optimization. Regularly advise startups on AI strategy."
+  },
+  {
+    "label": "advanced",
+    "text": "Eight years of blockchain and smart contract development experience. I have audited over one hundred smart contracts for major DeFi protocols, discovered critical vulnerabilities in billion-dollar TVL contracts, designed novel token economic models, and led the technical team for a successful Layer 2 protocol launch."
+  },
+  {
+    "label": "advanced",
+    "text": "Principal engineer and technical lead with ten years experience. I have designed API gateways, event-driven architectures, and multi-tenant SaaS platforms. I mentor engineers across the organization, drive architectural decisions, and establish coding standards. Deep expertise in domain-driven design and CQRS event sourcing patterns."
+  },
+  {
+    "label": "advanced",
+    "text": "Lead game engineer with nine years of experience at AAA studios. I have built custom game engines, implemented complex physics simulations, designed networking systems for massively multiplayer games, and optimized rendering pipelines achieving stable 60fps on mobile devices. Shipped seven titles with combined sales of over five million copies."
+  },
+  {
+    "label": "advanced",
+    "text": "Cloud architect with twelve years of experience and nine AWS certifications. I have designed multi-cloud disaster recovery strategies, optimized cloud costs by over forty percent for enterprise clients, led cloud transformation programs, and built internal developer platforms adopted by thousands of engineers."
+  },
+  {
+    "label": "advanced",
+    "text": "Senior ML infrastructure engineer with eight years of experience. I have built model training platforms that reduced experiment iteration time by ten times, designed feature stores serving low-latency lookups at scale, and led the adoption of ML observability practices across the organization."
+  },
+  {
+    "label": "advanced",
+    "text": "Expert full-stack architect with ten years of experience. I lead teams of twenty engineers building real-time collaborative products. I designed the WebSocket infrastructure handling two million concurrent connections, established frontend performance budgets, and architected the migration to a monorepo with custom build tooling."
+  },
+  {
+    "label": "advanced",
+    "text": "Senior embedded systems engineer with thirteen years of experience. I have designed safety-critical firmware for medical devices, implemented real-time operating systems from scratch, and optimized performance on ARM Cortex-M0 processors. I lead hardware-software co-design efforts and mentor junior embedded engineers."
+  },
+  {
+    "label": "advanced",
+    "text": "Principal bioinformatics scientist with ten years of experience. I have led genomic data analysis pipelines processing petabytes of sequencing data, published twenty papers in leading journals including Nature and Science, designed novel algorithms for variant calling, and built cloud-native bioinformatics platforms."
+  },
+  {
+    "label": "advanced",
+    "text": "Lead frontend architect with nine years building design systems and component libraries used by thousands of developers. I have established accessibility standards across products serving millions, led performance engineering initiatives improving Lighthouse scores from 40 to 95, and spoken at major frontend conferences."
+  },
+  {
+    "label": "advanced",
+    "text": "Senior Android engineer and technical lead with eight years experience. I designed the modularization strategy for an app with fifty million downloads, implemented custom rendering engines for video playback, mentored twelve engineers, and contributed to the Kotlin Coroutines library on GitHub."
+  }
+]

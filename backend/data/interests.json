@@ -1,0 +1,142 @@
+[
+  {
+    "id": "interest_ml_ai",
+    "name": "Machine Learning & AI",
+    "description": "Building intelligent systems that learn from data, including supervised learning, neural networks, and model deployment.",
+    "keywords": ["machine learning", "deep learning", "neural networks", "AI", "model training", "PyTorch", "TensorFlow", "scikit-learn", "gradient descent", "classification", "regression", "reinforcement learning"],
+    "anchor_text": "Machine learning artificial intelligence deep learning neural networks model training PyTorch TensorFlow scikit-learn supervised learning unsupervised learning reinforcement learning gradient descent classification regression prediction AI algorithms data-driven intelligent systems"
+  },
+  {
+    "id": "interest_frontend",
+    "name": "Frontend Web Development",
+    "description": "Building user interfaces and interactive web applications using modern frameworks like React, Vue, and Angular.",
+    "keywords": ["React", "Vue", "Angular", "JavaScript", "TypeScript", "CSS", "HTML", "UI", "frontend", "components", "responsive design", "web app"],
+    "anchor_text": "Frontend web development React Vue Angular JavaScript TypeScript HTML CSS user interface components responsive design interactive web applications browser DOM manipulation animations state management UI UX web design Figma pixel perfect"
+  },
+  {
+    "id": "interest_backend",
+    "name": "Backend Engineering",
+    "description": "Designing and building server-side APIs, business logic, and system integrations.",
+    "keywords": ["API", "REST", "FastAPI", "Django", "Node.js", "Express", "server", "backend", "microservices", "authentication", "database", "endpoints"],
+    "anchor_text": "Backend engineering REST API design FastAPI Django Flask Node.js Express server-side business logic microservices authentication authorization database integration endpoints scalable APIs JSON HTTP request response middleware"
+  },
+  {
+    "id": "interest_data_science",
+    "name": "Data Science & Analytics",
+    "description": "Extracting insights from data using statistics, visualisation, and predictive modelling.",
+    "keywords": ["data science", "analytics", "statistics", "pandas", "NumPy", "Jupyter", "visualization", "matplotlib", "EDA", "A/B testing", "regression", "insights"],
+    "anchor_text": "Data science analytics statistics data analysis pandas NumPy Jupyter notebook visualization matplotlib seaborn exploratory data analysis EDA A/B testing hypothesis testing business insights dashboards Tableau Power BI storytelling with data"
+  },
+  {
+    "id": "interest_devops",
+    "name": "DevOps & Cloud Infrastructure",
+    "description": "Automating software delivery, managing cloud infrastructure, and building reliable platform engineering systems.",
+    "keywords": ["DevOps", "CI/CD", "Docker", "Kubernetes", "Terraform", "AWS", "GCP", "Azure", "cloud", "infrastructure", "deployment", "monitoring"],
+    "anchor_text": "DevOps cloud infrastructure CI/CD pipelines Docker Kubernetes Terraform AWS GCP Azure Helm Prometheus Grafana monitoring logging deployment automation infrastructure as code platform engineering site reliability engineering SRE GitOps"
+  },
+  {
+    "id": "interest_mobile",
+    "name": "Mobile App Development",
+    "description": "Building native and cross-platform mobile applications for iOS and Android.",
+    "keywords": ["iOS", "Android", "Swift", "Kotlin", "React Native", "Flutter", "mobile", "app", "Xcode", "App Store", "Play Store", "Jetpack Compose"],
+    "anchor_text": "Mobile app development iOS Android Swift SwiftUI Kotlin Jetpack Compose React Native Flutter Xcode App Store Google Play Store native cross-platform mobile UI Firebase push notifications offline storage"
+  },
+  {
+    "id": "interest_cybersecurity",
+    "name": "Cybersecurity & Ethical Hacking",
+    "description": "Protecting systems and networks from threats through penetration testing, vulnerability research, and security engineering.",
+    "keywords": ["cybersecurity", "penetration testing", "ethical hacking", "OWASP", "CTF", "vulnerability", "exploit", "network security", "Burp Suite", "Metasploit", "cryptography", "SIEM"],
+    "anchor_text": "Cybersecurity ethical hacking penetration testing vulnerability research OWASP CTF challenge Burp Suite Metasploit Nmap network security application security cryptography red team blue team incident response SIEM threat modeling security audit"
+  },
+  {
+    "id": "interest_data_engineering",
+    "name": "Data Engineering & Big Data",
+    "description": "Building data pipelines, ETL systems, and scalable data infrastructure for analytics and ML.",
+    "keywords": ["data engineering", "ETL", "Spark", "Kafka", "Airflow", "dbt", "pipeline", "data lake", "Snowflake", "BigQuery", "streaming", "batch processing"],
+    "anchor_text": "Data engineering ETL pipelines Apache Spark Kafka Flink Airflow dbt data lake data warehouse Snowflake BigQuery Databricks Delta Lake streaming batch processing data quality orchestration lakehouse architecture"
+  },
+  {
+    "id": "interest_nlp",
+    "name": "Natural Language Processing",
+    "description": "Building systems that understand and generate human language using transformers, LLMs, and text analytics.",
+    "keywords": ["NLP", "natural language processing", "transformers", "BERT", "GPT", "LLM", "HuggingFace", "text classification", "sentiment analysis", "language model", "RAG", "embeddings"],
+    "anchor_text": "Natural language processing NLP transformers BERT GPT LLM large language models HuggingFace text classification sentiment analysis named entity recognition question answering summarization RAG retrieval augmented generation embeddings fine-tuning tokenization"
+  },
+  {
+    "id": "interest_computer_vision",
+    "name": "Computer Vision",
+    "description": "Teaching machines to understand visual information through image classification, object detection, and video analysis.",
+    "keywords": ["computer vision", "image recognition", "object detection", "CNN", "YOLO", "OpenCV", "image segmentation", "ResNet", "PyTorch vision", "video analysis", "medical imaging"],
+    "anchor_text": "Computer vision image recognition object detection convolutional neural networks CNN YOLO OpenCV image segmentation ResNet EfficientNet PyTorch vision video analysis medical imaging face detection generative image models diffusion models"
+  },
+  {
+    "id": "interest_blockchain",
+    "name": "Blockchain & Web3",
+    "description": "Building decentralised applications, smart contracts, and DeFi protocols on blockchain platforms.",
+    "keywords": ["blockchain", "Web3", "smart contracts", "Solidity", "Ethereum", "DeFi", "NFT", "token", "Hardhat", "IPFS", "decentralized", "crypto"],
+    "anchor_text": "Blockchain Web3 smart contracts Solidity Ethereum DeFi NFT token standards ERC-20 ERC-721 Hardhat Foundry IPFS decentralized applications dApps crypto wallet Layer 2 protocol audit security DeFi protocol"
+  },
+  {
+    "id": "interest_game_dev",
+    "name": "Game Development",
+    "description": "Creating video games with physics engines, rendering pipelines, and multiplayer networking.",
+    "keywords": ["game development", "Unity", "Unreal Engine", "C#", "game design", "physics", "rendering", "multiplayer", "shader", "game engine", "3D", "2D"],
+    "anchor_text": "Game development Unity Unreal Engine C# game design physics simulation rendering pipeline multiplayer networking shader graph 3D 2D graphics sprite animation collision detection level design game mechanics game loop"
+  },
+  {
+    "id": "interest_embedded",
+    "name": "Embedded Systems & IoT",
+    "description": "Programming hardware, microcontrollers, and connected devices for real-time and industrial applications.",
+    "keywords": ["embedded", "IoT", "firmware", "microcontroller", "Arduino", "Raspberry Pi", "RTOS", "C", "C++", "hardware", "sensors", "real-time"],
+    "anchor_text": "Embedded systems IoT Internet of Things firmware microcontroller Arduino Raspberry Pi RTOS real-time operating systems C C++ hardware sensors actuators serial communication MQTT Zigbee PCB design ARM Cortex low-level programming"
+  },
+  {
+    "id": "interest_quant_finance",
+    "name": "Quantitative Finance & Algorithmic Trading",
+    "description": "Applying mathematics, statistics, and programming to financial modelling, risk management, and trading systems.",
+    "keywords": ["quantitative finance", "algorithmic trading", "quant", "options pricing", "risk management", "time series", "backtesting", "portfolio", "factor model", "Monte Carlo", "derivatives"],
+    "anchor_text": "Quantitative finance algorithmic trading options pricing risk management Monte Carlo simulation time series backtesting portfolio optimization factor model derivatives hedge fund market microstructure statistical arbitrage volatility modelling"
+  },
+  {
+    "id": "interest_bioinformatics",
+    "name": "Bioinformatics & Computational Biology",
+    "description": "Applying computing and ML to biological data including genomics, proteomics, and drug discovery.",
+    "keywords": ["bioinformatics", "genomics", "computational biology", "DNA", "RNA", "protein", "sequence analysis", "variant calling", "NGS", "Biopython", "R", "Bioconductor"],
+    "anchor_text": "Bioinformatics computational biology genomics proteomics DNA RNA protein sequence analysis variant calling next generation sequencing NGS Biopython R Bioconductor genome assembly drug discovery structural biology CRISPR pathway analysis"
+  },
+  {
+    "id": "interest_ux_design",
+    "name": "UX/UI Design",
+    "description": "Crafting user-centred interfaces through research, prototyping, and design systems.",
+    "keywords": ["UX", "UI design", "Figma", "user research", "prototyping", "wireframing", "design system", "accessibility", "usability testing", "interaction design"],
+    "anchor_text": "UX UI design Figma user research prototyping wireframing design system accessibility usability testing interaction design heuristic evaluation empathy mapping information architecture design thinking user journey visual design"
+  },
+  {
+    "id": "interest_databases",
+    "name": "Database Engineering",
+    "description": "Designing, optimising, and managing relational and NoSQL databases for high-performance applications.",
+    "keywords": ["database", "SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "indexing", "query optimisation", "schema design", "ACID", "NoSQL", "sharding"],
+    "anchor_text": "Database engineering SQL PostgreSQL MySQL MongoDB Redis indexing query optimization schema design ACID transactions normalization NoSQL sharding replication partitioning database performance tuning stored procedures materialized views"
+  },
+  {
+    "id": "interest_system_design",
+    "name": "System Design & Software Architecture",
+    "description": "Designing large-scale distributed systems, microservices architectures, and engineering best practices.",
+    "keywords": ["system design", "architecture", "distributed systems", "scalability", "load balancing", "caching", "microservices", "event-driven", "CQRS", "DDD", "design patterns"],
+    "anchor_text": "System design software architecture distributed systems scalability load balancing caching microservices event-driven architecture CQRS domain-driven design DDD design patterns clean architecture CAP theorem eventual consistency high availability fault tolerance"
+  },
+  {
+    "id": "interest_algorithms",
+    "name": "Algorithms & Competitive Programming",
+    "description": "Mastering data structures, algorithms, and problem solving for technical interviews and competitive programming.",
+    "keywords": ["algorithms", "data structures", "competitive programming", "LeetCode", "dynamic programming", "graph", "tree", "complexity", "sorting", "binary search", "interview"],
+    "anchor_text": "Algorithms data structures competitive programming LeetCode dynamic programming graph theory tree traversal sorting searching binary search complexity analysis big O notation recursion backtracking greedy algorithms interview preparation FAANG"
+  },
+  {
+    "id": "interest_product",
+    "name": "Product Management & Entrepreneurship",
+    "description": "Building and shipping products through roadmapping, user research, and cross-functional leadership.",
+    "keywords": ["product management", "product manager", "roadmap", "user stories", "OKRs", "startup", "entrepreneurship", "growth", "metrics", "agile", "scrum", "go-to-market"],
+    "anchor_text": "Product management entrepreneurship startup product roadmap user stories OKRs KPIs agile scrum sprint go-to-market strategy growth hacking product analytics customer discovery market research product-market fit MVP launch pricing"
+  }
+]

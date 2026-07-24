@@ -1,0 +1,3 @@
+# This directory stores FAISS index files (.faiss) and cached records (.json).
+# Generated at first startup — not committed to version control.
+# Delete these files to force a full index rebuild.

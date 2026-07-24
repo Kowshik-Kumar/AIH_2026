@@ -1,0 +1,2 @@
+# This directory stores trained Scikit-learn models (.joblib files).
+# Generated at training time — not committed to version control.
