@@ -112,10 +112,14 @@ def create_app() -> FastAPI:
     from app.api.v1.routes.recommend_mentor import router as mentor_router  # noqa: PLC0415
     from app.api.v1.routes.classify_skill import router as skill_router  # noqa: PLC0415
     from app.api.v1.routes.predict_interest import router as interest_router  # noqa: PLC0415
+    from app.api.v1.routes.parse_resume import router as resume_router  # noqa: PLC0415
+    from app.api.v1.routes.chat import router as chat_router  # noqa: PLC0415
 
     app.include_router(mentor_router, prefix="/api/v1")
     app.include_router(skill_router, prefix="/api/v1")
     app.include_router(interest_router, prefix="/api/v1")
+    app.include_router(resume_router, prefix="/api/v1")
+    app.include_router(chat_router, prefix="/api/v1")
 
     # ── Global exception handlers ─────────────────────────────────────────────
     @app.exception_handler(Exception)
