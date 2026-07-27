@@ -74,8 +74,8 @@ export default function DashboardLayout({ children }: { children: ReactNode }) {
               U
             </div>
             <div className="ml-3 overflow-hidden">
-              <p className="text-sm font-medium text-white truncate">User Name</p>
-              <p className="text-xs text-muted-foreground truncate">Free Plan</p>
+              <p className="text-sm font-medium text-white truncate">User</p>
+              <p className="text-xs text-muted-foreground truncate capitalize">Learner</p>
             </div>
           </div>
         </div>

@@ -66,7 +66,7 @@ export default function WelcomePage() {
 
           {/* Build Profile Button */}
           <button 
-            onClick={() => router.push("/profile")}
+            onClick={() => router.push("/profile-builder")}
             className="group relative flex items-center justify-center w-full sm:w-auto px-8 py-4 bg-[#111111] text-foreground border border-white/10 rounded-2xl font-semibold transition-all hover:scale-105 hover:bg-white/5 hover:border-white/20"
           >
             <PenLine className="w-5 h-5 mr-3 group-hover:-translate-y-0.5 transition-transform text-muted-foreground group-hover:text-foreground" />
